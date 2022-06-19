@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SoftJavascript/reactRandomProfil.git/static/css/main.254f7ad7.css",
+    "main.js": "/SoftJavascript/reactRandomProfil.git/static/js/main.916981b5.js",
+    "index.html": "/SoftJavascript/reactRandomProfil.git/index.html",
+    "main.254f7ad7.css.map": "/SoftJavascript/reactRandomProfil.git/static/css/main.254f7ad7.css.map",
+    "main.916981b5.js.map": "/SoftJavascript/reactRandomProfil.git/static/js/main.916981b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.254f7ad7.css",
+    "static/js/main.916981b5.js"
+  ]
+}
